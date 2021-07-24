@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist.index.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianopulido/API-REST-TypeScript.git"
+  },
+  "author": "Luciano Pulido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianopulido/API-REST-TypeScript/issues"
+  },
+  "homepage": "https://github.com/lucianopulido/API-REST-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
